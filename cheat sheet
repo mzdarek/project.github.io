@@ -1,0 +1,112 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Cheat Sheet</title>
+    <link href="./styles.css" rel="stylesheet">
+    
+</head>
+<body>
+
+    <table>
+        <thead>
+          <tr>
+            <th>Element</th>
+            <th>CSS code</th>
+            <th>Details</th>
+          </tr>
+        </thead>
+        <tbody>
+          <tr>
+            <td>class="column"</td>
+            <td>.column{}</td>
+            <td>change all elements with class="column"</td>
+          </tr>
+          <tr>
+            <td>h1, h2 </td>
+            <td>h1, h2 {color: red;}</td>
+            <td>applies rule to all elements selected</td>
+          </tr>
+          tr>
+            <td>id="first-item"</td>
+            <td>#first-item {}</td>
+            <td>applies rule to all id="first-item"</td>
+          </tr>
+          tr>
+            <td>h3 class="section-heading"</td>
+            <td>h3.slection-heading {color: blue;}</td>
+            <td>applies to all h3 elements with section-heading class</td>
+          </tr>
+          tr>
+            <td>section-heading and button class</td>
+            <td>.section-heading.button {cursor: pointer;}</td>
+            <td>select elements with the section heading and button class</td>
+          </tr>
+          tr>
+            <td>selectors div or p</td>
+            <td>div p { }</td>
+            <td>space between</td>
+          </tr>
+          tr>
+            <td>CSS declarations</td>
+            <td>text-align: center;
+                color: purple;
+                width: 100px;
+                font-size: 30px;
+                background-color: blue;
+                opacity: 0.5;
+                font-wight: bold;
+            </td>
+            <td>changes all selected</td>
+          </tr>
+          tr>
+            <td>resource image</td>
+            <td><background-image: url("../resources/image.png");</td>
+            <td>will show image in backgground</td>
+          </tr>
+          tr>
+            <td>font family</td>
+            <td>h2 font-family: Verdana;}
+                #page-title {font-family: "Courier New"};
+            </td>
+            <td>2 word font in "", </td>
+          </tr>
+          tr>
+            <td></td>
+            <td></td>
+            <td></td>
+          </tr>
+          tr>
+            <td></td>
+            <td></td>
+            <td></td>
+          </tr>
+          tr>
+            <td></td>
+            <td></td>
+            <td></td>
+          </tr>
+          tr>
+            <td></td>
+            <td></td>
+            <td></td>
+          </tr>
+          tr>
+            <td></td>
+            <td></td>
+            <td></td>
+          </tr>
+
+
+
+          </tbody>
+    </table>
+
+
+
+
+    
+</body>
+</html>
